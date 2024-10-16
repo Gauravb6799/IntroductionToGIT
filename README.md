@@ -1,7 +1,4 @@
-# gitPracticalDay01
+# Git Basic Commands
 
-#Git Basic Commands
-....
-####To initialize empty git repository
-....
-git init
+## To initialize empty git repository
+
