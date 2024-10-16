@@ -1,4 +1,6 @@
-# Git Basic Commands
+## Git Basic Commands
 
-## To initialize empty git repository
+- To initialize empty git repository
 
+````
+git init
