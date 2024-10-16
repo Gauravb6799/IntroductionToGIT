@@ -5,9 +5,15 @@
 ````
 git init
 
+````
 - Configure Username and EmailID
 
 ````
 git config --global user.email "testemail@gmail.com"
 git config --global user.name "abhi"
 git config --global --list
+````
+- create test file
+````
+touch index.html
+````
